@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.line-relaxed {
+  line-height: 1.624;
+}
+
+#voice {
+  width: 221px;
+}
+
+.bg1 {
+  background-color: #f6f6f6;
+}
+
+.bg2 {
+  background-color: #3f4eed;
+}
+
+#rely {
+  background-color: #f6f6f6;
+}
+
+.footer{
+  background-color: #23272a  ;
+}
+
+#sign{
+  background-color: #5865f2  ;
+}
+
